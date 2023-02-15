@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvin
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on projects involving python.
+- 💞️ I’m looking to collaborate on projects involving javascript.
 - 📫 How to reach me [email](harriselvin6@gmail.com)
 
 <!---
