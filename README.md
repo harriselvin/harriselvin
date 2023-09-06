@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Elvin
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on projects involving javascript.
-- 📫 How to reach me [email](harriselvin6@gmail.com)
-
-<!---
-harriselvin/harriselvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Elvin</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 
@@ -22,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **projects involving React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harriselvin](https://github.com/harriselvin)
+- 👨‍💻 All of my projects are available at [https://github.com/harriselvin](https://github.com/harriselvin?tab=repositories)
 
 - 💬 Ask me about **JavaScript, React**
 
@@ -44,3 +33,8 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harriselvin&show_icons=true&locale=en" alt="harriselvin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harriselvin&" alt="harriselvin" /></p>
+
+<!---
+harriselvin/harriselvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
