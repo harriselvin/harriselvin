@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects involving React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harriselvin](https://github.com/harriselvin?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/harriselvin?tab=repositories)
 
 - 💬 Ask me about **JavaScript, React**
 
