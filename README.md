@@ -38,9 +38,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harriselvin&show_icons=true&locale=en&layout=compact" alt="harriselvin" /></h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harriselvin&show_icons=true&locale=en&layout=compact" alt="harriselvin" /></p>
 
-<h4 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harriselvin&show_icons=true&locale=en" alt="harriselvin" /></h4>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harriselvin&show_icons=true&locale=en" alt="harriselvin" /></p>
 
 
 <!---
