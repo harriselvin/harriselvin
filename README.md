@@ -10,7 +10,7 @@
 
  👨‍💻 All of my projects are available at [Github Repos](https://github.com/harriselvin?tab=repositories)
 
- 💬 Ask me about **JavaScript, React**
+ 💬 Ask me about **React**
 
 📫 How to reach me **harriselvin6@gmail.com**
 
