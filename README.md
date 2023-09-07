@@ -1,4 +1,4 @@
-# Hi 👋, I'm Elvin
+<h1 align="center">Hi 👋, I'm Elvin</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harriselvin&label=Profile%20views&color=0e75b6&style=flat" alt="harriselvin" /> </p>
