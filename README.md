@@ -4,11 +4,11 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=harriselvin&label=Profile%20views&color=0e75b6&style=flat" alt="harriselvin" /> </p>
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **JavaScript**
 
- 👯 I’m looking to collaborate on **projects involving React**
+ 👯 I’m looking to collaborate on **projects involving JavaScript**
 
- 💬 Ask me about **React**
+ 💬 Ask me about **JavaScript**
 
 📫 How to reach me **harriselvin6@gmail.com**
 
